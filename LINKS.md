@@ -9,4 +9,4 @@
 - Dashboard URL: [AZURE APP SERVICE URL HERE]
 
 ## Demo Video
-- Video Link: [VIDEO LINK HERE]
+- Video Link: [https://youtu.be/d7CRK4UIug8]
