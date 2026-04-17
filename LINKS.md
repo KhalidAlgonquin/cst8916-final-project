@@ -1,12 +1,25 @@
-# Project Links
+# Project Repository Links
 
-## GitHub Repositories
-- Main Documentation Repository: [https://github.com/CST8916-Final-Project/cst8916-final-project]
-- Sensor Simulation Repository: [https://github.com/CST8916-Final-Project/rideau-canal-sensor-simulation]
-- Dashboard Repository: [https://github.com/CST8916-Final-Project/rideau-canal-dashboard]
+## Student Information
+- **Name:**  Khalid Amchat
+- **Student ID:**  041125350
+- **Course:** CST8916 - Remote Data and Real-time Applications
+- Term: Winter 2026
 
-## Azure Deployment
-- Dashboard URL: [AZURE APP SERVICE URL HERE]
+
+## Repository Links
+
+### 1. Main Documentation Repository
+- [Main documentation repository link](https://github.com/KhalidAlgonquin/cst8916-final-project)
+- **Description:** Complete project documentation, architecture, screenshots, and guides
+
+### 2. Sensor Simulation Repository
+- [Sensor simulation repository link](https://github.com/KhalidAlgonquin/rideau-canal-sensor-simulation)
+- **Description:** IoT sensor simulator code
+
+### 3. Web Dashboard Repository
+- [Dashboard repository link](https://github.com/KhalidAlgonquin/rideau-canal-dashboard)
+- **Description:** Web dashboard application
 
 ## Demo Video
-- Video Link: [https://youtu.be/d7CRK4UIug8]
+- [Watch demo video](https://www.youtube.com/watch?v=d7CRK4UIug8) 
