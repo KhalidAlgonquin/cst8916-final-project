@@ -80,9 +80,8 @@ The system follows this data flow:
 
 ## 5- Implementation Overview
 ### 1. IoT Sensor Simulation
-The sensor simulation component is implemented in Python and is stored in the sensor simulation repository.
-
-**Repository link:** [https://github.com/CST8916-Final-Project/rideau-canal-sensor-simulation]
+The sensor simulation component is implemented in Python and is stored in the sensor simulation repository. 
+[(Repository link)](https://github.com/KhalidAlgonquin/rideau-canal-sensor-simulation)
 
 The simulator:
 - creates three virtual devices
@@ -139,9 +138,8 @@ Configuration:
 This allows the system to keep historical output files organized by date and time.
 
 ### 6. Web Dashboard
-The web dashboard is built with Node.js, Express, HTML, CSS, JavaScript, and Chart.js.
-
-**Repository link:** [(https://github.com/KhalidAlgonquin/rideau-canal-dashboard)]
+The web dashboard is built with Node.js, Express, HTML, CSS, JavaScript, and Chart.js. 
+[(Repository link)](https://github.com/KhalidAlgonquin/rideau-canal-dashboard)
 
 Main features:
 - overall system status
@@ -161,9 +159,9 @@ Deployment summary:
 
 ## 6- Repository Structure
 This project is organized into three repositories:
-1. [`Main documentation repository`](https://github.com/CST8916-Final-Project/cst8916-final-project)
-2. [`Sensor simulation repository`](https://github.com/CST8916-Final-Project/rideau-canal-sensor-simulation)
-3. [`Dashboard repository`](https://github.com/KhalidAlgonquin/rideau-canal-dashboard)
+1. [Main documentation repository link](https://github.com/KhalidAlgonquin/cst8916-final-project)
+2. [Sensor simulation repository link](https://github.com/KhalidAlgonquin/rideau-canal-sensor-simulation)
+3. [Dashboard repository link](https://github.com/KhalidAlgonquin/rideau-canal-dashboard)
 ---
 ## 7- Demo Video
 [`Watch demo video`](https://www.youtube.com/watch?v=d7CRK4UIug8) 
@@ -194,8 +192,8 @@ Before running the project, make sure you have:
 7. Run the dashboard locally or deploy it to Azure App Service.
 
 ### Links to Detailed Setup
-- **Sensor setup details:** [https://github.com/CST8916-Final-Project/rideau-canal-sensor-simulation]
-- **Dashboard setup details:** [https://github.com/KhalidAlgonquin/rideau-canal-dashboard]
+- **Sensor setup details:** [(Repository link)](https://github.com/KhalidAlgonquin/rideau-canal-sensor-simulation)
+- **Dashboard setup details:** [(Repository link)](https://github.com/KhalidAlgonquin/rideau-canal-dashboard)
 ---
 
 ## 9- Results and Analysis
