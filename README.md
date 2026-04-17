@@ -1,14 +1,13 @@
 # cst8916-final-project
-# Rideau Canal Skateway Monitoring System
+# Project Title: Rideau Canal Skateway Monitoring System
 ---
 ## 1- Student Information
 - Name: Khalid Amchat
 - Student ID: 041125350
 - Course: CST8916 - Remote Data and Real-time Applications
-- Assignment: Final Project
 - Term: Winter 2026
 ---
-## 2- Project Overview
+## 2- Project Description
 This project is a real-time monitoring system for the Rideau Canal Skateway. It simulates environmental sensor data from three locations — **Dow's Lake**, **Fifth Avenue**, and **NAC** — and sends the data to Azure for ingestion, processing, storage, and visualization.
 
 The system uses a Python sensor simulator, Azure IoT Hub, Azure Stream Analytics, Azure Cosmos DB, Azure Blob Storage, and a Node.js web dashboard deployed on Azure App Service. The goal is to monitor skateway conditions such as ice thickness, surface temperature, snow accumulation, and external temperature, then display live safety information and historical trends.
