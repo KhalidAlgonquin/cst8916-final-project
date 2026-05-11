@@ -7,6 +7,11 @@
 - Course: CST8916 - Remote Data and Real-time Applications
 - Term: Winter 2026
 ---
+
+## 7- Demo Video
+[`Watch demo video`](https://www.youtube.com/watch?v=d7CRK4UIug8) 
+
+---
 ## 2- Project Description
 This project is a real-time monitoring system for the Rideau Canal Skateway. It simulates environmental sensor data from three locations — **Dow's Lake**, **Fifth Avenue**, and **NAC** — and sends the data to Azure for ingestion, processing, storage, and visualization.
 
@@ -162,10 +167,7 @@ This project is organized into three repositories:
 2. [Sensor simulation repository link](https://github.com/KhalidAlgonquin/rideau-canal-sensor-simulation)
 3. [Dashboard repository link](https://github.com/KhalidAlgonquin/rideau-canal-dashboard)
 ---
-## 7- Demo Video
-[`Watch demo video`](https://www.youtube.com/watch?v=d7CRK4UIug8) 
 
----
 ## 8-Setup Instructions
 
 ### Prerequisites
